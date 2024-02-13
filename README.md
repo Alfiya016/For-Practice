@@ -1,2 +1,2 @@
 # For-Practice
-This is made for only practice
+This is made for only practice.
